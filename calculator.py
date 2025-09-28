@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 28 16:21:19 2025
-
-@author: Lenovo
-"""
+# Simple Calculator:
 
 def add(x,y):
     return x+y
@@ -44,4 +39,5 @@ else:
         
     
     
+
     
